@@ -17,8 +17,8 @@ Bu proje, CIFAR-10 veri setinde eğitilmiş bir CNN modeli kullanarak görüntü
 1. Projeyi klonlayın veya indirin:
 
 ```bash
-git clone https://github.com/kullanici/yapay-zeka-goruntu-siniflandirici.git
-cd yapay-zeka-goruntu-siniflandirici
+git clone https://github.com/BabaChip/bbyz.git
+cd bbyz
 ```
 
 2. Gerekli kütüphaneleri yükleyin:
